@@ -1,3 +1,8 @@
+
+body {
+		background-color: #aaacb2;
+	}
+
 .topnav li {
 		display: inline
 	}
@@ -10,6 +15,3 @@ nav ul ul {
 nav ul li:hover > ul {
 		display: block;
 		
-body {
-		color: red;
-	}
