@@ -10,3 +10,6 @@ nav ul ul {
 nav ul li:hover > ul {
 		display: block;
 		
+body {
+		background-color: gray;
+	}
